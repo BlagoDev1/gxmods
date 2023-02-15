@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Boss Theme",
-    "description": "Get good, browse better.",
+    "name": "Hello Neighbor",
+    "description": "Memories of quiet times.",
     "version": "1.0",
     "icons":
     {
@@ -9,7 +9,7 @@
     },
     "developer":
     {
-        "name": "Opera Software"
+        "name": "BlagoDev"
     },
     "mod":
     {
